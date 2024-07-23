@@ -21,7 +21,7 @@ Finally, you need to install the ```requirements.txt``` file, like this: ```pip 
 
 <h2>How to use the project</h2>
 
-This project was built just for didactic purposes, but you can modify it according to your needs. For example, you can training a model to predict the rain probability according some weather informations (humidity, atmospheric pressure and much more), with some weather databases <a target= "_blank" href= "https://www.kaggle.com/">Kaggle</a> database. Feel comfortable to use it as you need.
+This project was built just for didactic purposes, but you can modify it according to your needs. For example, you can training a model to predict the rain probability according some weather informations (humidity, atmospheric pressure and much more), with some weather databases from <a target= "_blank" href= "https://www.kaggle.com/">Kaggle</a>. Feel comfortable to use it as you need.
 
 <h2>Credits</h2>
 
