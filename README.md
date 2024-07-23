@@ -5,7 +5,7 @@
 This project is the third class of <i>Jornada Python</i> from <i>Hashtag Treinamentos</i> and it 
 consists in a customer's bank score analysis. This score will define if the bank will offer a bank 
 loan to customers or maybe another bank services. This project's goal is to make a database processing 
-and then, to create classification algorithms which algorithm is the best for this case.
+and then, to create classification algorithms and to know which algorithm is the best for this case.
 
 <h2>How to install and run the project</h2>
 
